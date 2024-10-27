@@ -9,3 +9,17 @@ a{
     font-weight: 550;
     text-decoration: none;
 }
+header{
+    height: 60px;
+    background-color: #806BDC;
+    text-align: center;
+}
+
+.NavBar{
+    padding-top: 18px;
+}
+
+#navbar-title{
+    color: white;
+    font-size: 25px;
+}
